@@ -54,8 +54,5 @@
             <li style="font-size: 23px;">Digitalization of criminals records.</li>
         </ul>
     </div>
-    <div style="padding-left: 30px;background-color: darkgreen;padding-top: 5px;color: white;padding-bottom: 5px;">
-        <a href="https://github.com/Prutter/Crime_information_Management_System" target="_blank"><h1 style="color:white">Link to Github</h1></a>
-    </div>
 </body>
 </html>
