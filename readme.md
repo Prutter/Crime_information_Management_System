@@ -52,6 +52,7 @@
         <ul>
             <li style="font-size: 23px;">Digitalization of crimes records.</li>
             <li style="font-size: 23px;">Digitalization of criminals records.</li>
+            <li style="font-size: 23px;">Effective managing and filtering the records for rapid action.</li>
         </ul>
     </div>
 </body>
